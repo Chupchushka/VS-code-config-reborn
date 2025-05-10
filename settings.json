@@ -1,0 +1,69 @@
+{
+    //Font
+    "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
+    "editor.fontSize": 17,
+
+    //Side bar
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.indent": 14,
+
+    //Theme
+    "workbench.colorTheme": "Kanagawa Wave",
+
+    //Drag & drop
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": true,
+
+    //Sidebar
+    "workbench.sideBar.location": "right",
+    
+    //Status bar
+    "workbench.statusBar.visible": false,
+
+    //Hide scroll
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": "off",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.stickyScroll.enabled": false,
+
+    //Breadcrumbs
+    "breadcrumbs.enabled": false,
+
+    //Hide the panel
+    "workbench.activityBar.location": "hidden",
+
+    //Disable window managment panel
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    
+    //Tab length
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+
+    //Tabs settings
+    "workbench.editor.showTabs": "single",
+
+    //Cursor settings
+    "editor.cursorBlinking": "solid",
+
+    //Home screen
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+
+    //Active line 
+    "editor.renderLineHighlight": "gutter",
+
+    //Remove dots
+    "editor.renderWhitespace": "none", 
+    
+    //Improve explorer
+    "workbench.tree.renderIndentGuides": "none"
+
+}
